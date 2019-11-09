@@ -1,2 +1,1 @@
 class pi_method:
-    
