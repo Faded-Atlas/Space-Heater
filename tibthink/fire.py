@@ -3,7 +3,7 @@ from os import system as cmd
 import random
 import sys
 
-name =("""
+name = ("""
                                                                                                    
     )                                 (                         )   )           )                   
  ( /(   (  (        (        (  (     )\ )    (  (           ( /(( /(   (    ( /(       (       (   
